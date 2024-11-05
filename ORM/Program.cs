@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            ApplicationDbContext appDbContext = new ApplicationDbContext();
         }
     }
 }

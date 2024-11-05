@@ -21,7 +21,12 @@ namespace ORM.Models
 
         public DateTime MStartDate { get; set; }
 
+        public virtual ICollection<Dlocation> Locations { get; set; }
 
+        [InverseProperty("Department")]
+        public virtual ICollection<Employee> Employeess { get; set; }
+
+        public virtual ICollection<Project> Projects { get; set; }
 
     }
 }

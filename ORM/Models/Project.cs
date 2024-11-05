@@ -14,6 +14,7 @@ namespace ORM.Models
         public int Pnumber { get; set; }
 
         [Required]
+      
         public string Pname { get; set; }
         public string Plocation { get; set; }
 
@@ -21,6 +22,7 @@ namespace ORM.Models
         public int Dnum { get; set; }
 
         public virtual Department Department { get; set; }
+        public virtual ICollection<WorkOn> WorkEmployees { get; set; }
 
 
 
