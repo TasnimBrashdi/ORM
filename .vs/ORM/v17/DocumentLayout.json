@@ -3,44 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\Codeline User\\source\\repos\\ORM\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|c:\\users\\codeline user\\source\\repos\\orm\\college\\migrations\\20241106083813_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|solutionrelative:college\\migrations\\20241106083813_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|c:\\users\\codeline user\\source\\repos\\orm\\college\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|solutionrelative:college\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|c:\\users\\codeline user\\source\\repos\\orm\\college\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|solutionrelative:college\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|c:\\users\\codeline user\\source\\repos\\orm\\college\\models\\fphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|solutionrelative:college\\models\\fphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|c:\\users\\codeline user\\source\\repos\\orm\\college\\models\\hostel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|solutionrelative:college\\models\\hostel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|c:\\users\\codeline user\\source\\repos\\orm\\college\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|solutionrelative:college\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|c:\\users\\codeline user\\source\\repos\\orm\\college\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|solutionrelative:college\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|c:\\users\\codeline user\\source\\repos\\orm\\college\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|solutionrelative:college\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|c:\\users\\codeline user\\source\\repos\\orm\\college\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|solutionrelative:college\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|c:\\users\\codeline user\\source\\repos\\orm\\college\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|solutionrelative:college\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|c:\\users\\codeline user\\source\\repos\\orm\\orm\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|solutionrelative:orm\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|c:\\users\\codeline user\\source\\repos\\orm\\college\\models\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|solutionrelative:college\\models\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|c:\\users\\codeline user\\source\\repos\\orm\\orm\\models\\dependents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|solutionrelative:orm\\models\\dependents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|c:\\users\\codeline user\\source\\repos\\orm\\orm\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|solutionrelative:orm\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Migrations\\20241105112825_Initialcrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ORM\\Migrations\\20241105112825_Initialcrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|c:\\users\\codeline user\\source\\repos\\orm\\college\\models\\sphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|solutionrelative:college\\models\\sphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|c:\\users\\codeline user\\source\\repos\\orm\\orm\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|solutionrelative:orm\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|c:\\users\\codeline user\\source\\repos\\orm\\orm\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|solutionrelative:orm\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|c:\\users\\codeline user\\source\\repos\\orm\\orm\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|solutionrelative:orm\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|c:\\users\\codeline user\\source\\repos\\orm\\orm\\models\\dlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|solutionrelative:orm\\models\\dlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|c:\\users\\codeline user\\source\\repos\\orm\\college\\college.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10FF827A-CDD9-435B-8CD7-63B4F379575C}|College\\College.csproj|solutionrelative:college\\college.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|c:\\users\\codeline user\\source\\repos\\orm\\orm\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|solutionrelative:orm\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|c:\\users\\codeline user\\source\\repos\\orm\\orm\\models\\workon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|solutionrelative:orm\\models\\workon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|c:\\users\\codeline user\\source\\repos\\orm\\orm\\models\\dependents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|solutionrelative:orm\\models\\dependents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|c:\\users\\codeline user\\source\\repos\\orm\\orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|solutionrelative:orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|c:\\users\\codeline user\\source\\repos\\orm\\orm\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|solutionrelative:orm\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77E130A2-B8E5-4846-B705-13A2B1B49CF2}|ORM\\ORM.csproj|c:\\users\\codeline user\\source\\repos\\orm\\orm\\orm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -54,8 +94,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "College\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Models\\Student.cs",
+              "RelativeToolTip": "College\\Models\\Student.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA9wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:29:38.189Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -63,136 +116,235 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Program.cs",
-              "RelativeDocumentMoniker": "College\\Program.cs",
-              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Program.cs",
-              "RelativeToolTip": "College\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "20241106083813_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Migrations\\20241106083813_initial.cs",
+              "RelativeDocumentMoniker": "College\\Migrations\\20241106083813_initial.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Migrations\\20241106083813_initial.cs",
+              "RelativeToolTip": "College\\Migrations\\20241106083813_initial.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAowMAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:59:43.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Dlocation.cs",
-              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\Dlocation.cs",
-              "RelativeDocumentMoniker": "ORM\\Models\\Dlocation.cs",
-              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\Dlocation.cs",
-              "RelativeToolTip": "ORM\\Models\\Dlocation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T10:56:01.715Z",
+              "WhenOpened": "2024-11-06T08:38:13.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "ORM\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\Department.cs",
-              "RelativeToolTip": "ORM\\Models\\Department.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "College\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Models\\Course.cs",
+              "RelativeToolTip": "College\\Models\\Course.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T10:38:21.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\Project.cs",
-              "RelativeDocumentMoniker": "ORM\\Models\\Project.cs",
-              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\Project.cs",
-              "RelativeToolTip": "ORM\\Models\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T10:58:48.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T05:30:15.447Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "ORM\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\Employee.cs",
-              "RelativeToolTip": "ORM\\Models\\Employee.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwB8AAAABAAAAAAAAAA==",
+              "Title": "FPhone.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Models\\FPhone.cs",
+              "RelativeDocumentMoniker": "College\\Models\\FPhone.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Models\\FPhone.cs",
+              "RelativeToolTip": "College\\Models\\FPhone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T10:24:35.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T05:31:23.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dependents.cs",
-              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\Dependents.cs",
-              "RelativeDocumentMoniker": "ORM\\Models\\Dependents.cs",
-              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\Dependents.cs",
-              "RelativeToolTip": "ORM\\Models\\Dependents.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Models\\Faculty.cs",
+              "RelativeDocumentMoniker": "College\\Models\\Faculty.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Models\\Faculty.cs",
+              "RelativeToolTip": "College\\Models\\Faculty.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:05:33.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T05:23:41.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20241105112825_Initialcrate.cs",
-              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Migrations\\20241105112825_Initialcrate.cs",
-              "RelativeDocumentMoniker": "ORM\\Migrations\\20241105112825_Initialcrate.cs",
-              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Migrations\\20241105112825_Initialcrate.cs",
-              "RelativeToolTip": "ORM\\Migrations\\20241105112825_Initialcrate.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAgwJUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "College\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Models\\Department.cs",
+              "RelativeToolTip": "College\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:28:25.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WorkOn.cs",
-              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\WorkOn.cs",
-              "RelativeDocumentMoniker": "ORM\\Models\\WorkOn.cs",
-              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\WorkOn.cs",
-              "RelativeToolTip": "ORM\\Models\\WorkOn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:03:19.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T05:30:32.8Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ORM\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ORM\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "College\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Models\\Subject.cs",
+              "RelativeToolTip": "College\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T10:18:10.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T05:31:02.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SPhone.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Models\\SPhone.cs",
+              "RelativeDocumentMoniker": "College\\Models\\SPhone.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Models\\SPhone.cs",
+              "RelativeToolTip": "College\\Models\\SPhone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:31:41.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "College\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\AppDbContext.cs",
+              "RelativeToolTip": "College\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:18:38.371Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Program.cs",
-              "RelativeDocumentMoniker": "ORM\\Program.cs",
-              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Program.cs",
-              "RelativeToolTip": "ORM\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Program.cs",
+              "RelativeDocumentMoniker": "College\\Program.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Program.cs",
+              "RelativeToolTip": "College\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T10:10:39.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T11:59:43.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hostel.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Models\\Hostel.cs",
+              "RelativeDocumentMoniker": "College\\Models\\Hostel.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Models\\Hostel.cs",
+              "RelativeToolTip": "College\\Models\\Hostel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:29:58.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "ORM\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\Department.cs",
+              "RelativeToolTip": "ORM\\Models\\Department.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:58:42.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ORM\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\Employee.cs",
+              "RelativeToolTip": "ORM\\Models\\Employee.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:33:03.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "College.csproj",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\College.csproj",
+              "RelativeDocumentMoniker": "College\\College.csproj",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\College.csproj",
+              "RelativeToolTip": "College\\College.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T05:17:43.572Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Exams.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Models\\Exams.cs",
+              "RelativeDocumentMoniker": "College\\Models\\Exams.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\College\\Models\\Exams.cs",
+              "RelativeToolTip": "College\\Models\\Exams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:30:48.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "ORM\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\Project.cs",
+              "RelativeToolTip": "ORM\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:58:37.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WorkOn.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\WorkOn.cs",
+              "RelativeDocumentMoniker": "ORM\\Models\\WorkOn.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\WorkOn.cs",
+              "RelativeToolTip": "ORM\\Models\\WorkOn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:12:28.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dependents.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\Dependents.cs",
+              "RelativeDocumentMoniker": "ORM\\Models\\Dependents.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Models\\Dependents.cs",
+              "RelativeToolTip": "ORM\\Models\\Dependents.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:58:40.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Program.cs",
+              "RelativeDocumentMoniker": "ORM\\Program.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\Program.cs",
+              "RelativeToolTip": "ORM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:10:39.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ORM\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ORM\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:54:53.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "ORM.csproj",
               "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\ORM\\ORM\\ORM.csproj",
               "RelativeDocumentMoniker": "ORM\\ORM.csproj",
@@ -200,8 +352,7 @@
               "RelativeToolTip": "ORM\\ORM.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-05T10:11:09.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T10:11:09.967Z"
             }
           ]
         }

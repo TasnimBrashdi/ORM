@@ -58,9 +58,8 @@ namespace ORM.Migrations
                     b.Property<DateTime>("DBdate")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("DSex")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("DSex")
+                        .HasColumnType("int");
 
                     b.Property<string>("Relationship")
                         .IsRequired()
@@ -104,11 +103,13 @@ namespace ORM.Migrations
 
                     b.Property<string>("FName")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)");
 
                     b.Property<string>("LName")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)");
 
                     b.Property<string>("Minit")
                         .IsRequired()
@@ -117,9 +118,8 @@ namespace ORM.Migrations
                     b.Property<decimal>("Salary")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<string>("Sex")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("Sex")
+                        .HasColumnType("int");
 
                     b.Property<int?>("SuperSsn")
                         .HasColumnType("int");
