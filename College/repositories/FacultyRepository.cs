@@ -24,9 +24,7 @@ namespace College.repositories
         //GetAllFaculties: List all faculty members, including the subjects and courses they are associated with.
         public IEnumerable<Faculty> GetAllFaculties()
         {
-            return _context.Faculties
-                 .Include(f => f.Subjects).Include(f => f.DEPID).Include(f => f.Students).Include(f => f.FPhones)
-                 .ToList();
+            return _context.Faculties.Include(s => s.Subjects).Include(d => d.DEPID).ToList();
         }
 
         //• GetFacultyById: Fetch a faculty member's complete details by ID, with navigational properties. 

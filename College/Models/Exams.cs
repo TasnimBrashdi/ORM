@@ -22,6 +22,7 @@ namespace College.Models
         [ForeignKey("DEPId")]
         public int DEPtId { get; set; }
         public virtual Department DEPId { get; set; }
-  
+        public virtual ICollection<Student> Students { get; set; }
+
     }
 }

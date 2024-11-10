@@ -33,12 +33,13 @@ namespace College.Models
        
 
         [ForeignKey("HostelID")]
-        public int hosID { get; set; }
+        public int? hosID { get; set; }
 
         public virtual  Hostel HostelID { get; set; }
 
         public virtual ICollection<Course> Courses { get; set; }
-        public virtual ICollection<SPhone> sPhones {  get; set; }    
+        public virtual ICollection<SPhone> sPhones {  get; set; }
+        public virtual ICollection<Exams> Exams { get; set; }
     }
    
 }

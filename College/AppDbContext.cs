@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace College
 {
-    internal class AppDbContext : DbContext 
+    public class AppDbContext : DbContext 
 
     {
         protected override void OnConfiguring(DbContextOptionsBuilder options)
