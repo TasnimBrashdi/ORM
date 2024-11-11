@@ -21,8 +21,8 @@ namespace College.Repositories
 
         public IEnumerable<Student> GetAllStudents()
         {
-            return _context.Students.Include(s => s.Courses).Include(s => s.HostelID).Include(s => s.sPhones)
-                //Exams    
+            return _context.Students.Include(s => s.Courses).Include(s => s.HostelID).Include(s => s.sPhones).Include(s => s.Exams)
+             
                 .ToList();
         }
         public Student GetStudentById(int sID)

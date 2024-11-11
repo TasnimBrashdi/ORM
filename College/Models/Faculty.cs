@@ -27,6 +27,6 @@ namespace College.Models
         public virtual ICollection<Student> Students { get; set; }
 
         public virtual ICollection<FPhone> FPhones { get; set; }
-
+        public virtual ICollection<Course> Courses { get; set; }
     }
 }

@@ -23,7 +23,7 @@ namespace College.repositories
         //• GetAllExams: List all exams, including the department and students taking the exam.
         public IEnumerable<Exams> GetAllExams()
         {
-            return _context.Exams.Include(e => e.DEPId)              
+            return _context.Exams.Include(e => e.DEPId).Include(e => e.Students)
                 .ToList();
         }
 

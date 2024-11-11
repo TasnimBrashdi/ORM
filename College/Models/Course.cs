@@ -23,6 +23,7 @@ namespace College.Models
         public virtual Department DepID { get; set; }
 
         public virtual  ICollection<Student> Students { get; set; }
+        public virtual ICollection<Faculty> Faculties { get; set; }
 
 
 

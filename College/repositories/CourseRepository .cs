@@ -24,7 +24,7 @@ namespace College.repositories
 
         public IEnumerable<Course> GetAllCourses()
         {
-            return _context.Courses.Include(c => c.Students).Include(c => c.DepID)
+            return _context.Courses.Include(c => c.Students).Include(c => c.Faculties)
                 .ToList();
         }
 
